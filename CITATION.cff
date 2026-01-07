@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PhD Thesis Code and Data for congestion-management-inv-dnr-lfm"
+authors:
+  - family-names: "Valarezo"
+    given-names: "Orlando"
+date-released: 2026-01-08
+version: 1.0.0
+repository-code: "https://github.com/ovalarezo/congestion-management-inv-dnr-lfm"
+license: 
+- Apache-2.0
+- CC-BY-4.0
